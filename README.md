@@ -1,4 +1,2 @@
 # hello-world
-CSE 231 Lab
-
-cool man
+CSE 232 Lab
